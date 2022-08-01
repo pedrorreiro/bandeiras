@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/bandeiras/static/css/main.ad089949.css",
-    "main.js": "/bandeiras/static/js/main.0220824a.js",
+    "main.js": "/bandeiras/static/js/main.e5f229f3.js",
     "static/js/787.80492d88.chunk.js": "/bandeiras/static/js/787.80492d88.chunk.js",
     "static/media/NunitoSans-Regular.ttf": "/bandeiras/static/media/NunitoSans-Regular.a427ddbe4dc20889d6e0.ttf",
     "index.html": "/bandeiras/index.html",
     "main.ad089949.css.map": "/bandeiras/static/css/main.ad089949.css.map",
-    "main.0220824a.js.map": "/bandeiras/static/js/main.0220824a.js.map",
+    "main.e5f229f3.js.map": "/bandeiras/static/js/main.e5f229f3.js.map",
     "787.80492d88.chunk.js.map": "/bandeiras/static/js/787.80492d88.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ad089949.css",
-    "static/js/main.0220824a.js"
+    "static/js/main.e5f229f3.js"
   ]
 }
