@@ -1,0 +1,15 @@
+html{
+  scroll-behavior: smooth;
+  scrollbar-color: black transparent;
+  font-family: 'Nunito';
+}
+
+body{
+  font-family: "Nunito", sans-serif;
+}
+
+@font-face {
+  font-family: "Nunito";   /*Can be any text*/
+  src: local("NunitoSans-Regular"),
+    url("./fonts/NunitoSans-Regular.ttf") format("truetype");
+}
