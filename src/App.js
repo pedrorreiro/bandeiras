@@ -32,7 +32,7 @@ function App() {
 
       <Global>
         <Header id="home">
-          <div onClick={() => navigate("/vendo-bandeiras/")}>
+          <div onClick={() => navigate("/bandeiras/")}>
             <h1>Lista de Países</h1>
           </div>
 
@@ -46,8 +46,8 @@ function App() {
         </Header>
 
         <Routes>
-          <Route path="/vendo-bandeiras" element={<ListaPaises />} />
-          <Route path="/vendo-bandeiras/sobre/:nome" element={<Sobre />} />
+          <Route path="/bandeiras" element={<ListaPaises />} />
+          <Route path="/bandeiras/sobre/:nome" element={<Sobre />} />
         </Routes>
 
         <Up onClick={() => scrollToTop()}>

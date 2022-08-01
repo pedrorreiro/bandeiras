@@ -21,7 +21,7 @@
     "swiper": "^8.2.4",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://pedrorreiro.github.io/vendo-bandeiras",
+  "homepage": "https://pedrorreiro.github.io/bandeiras",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

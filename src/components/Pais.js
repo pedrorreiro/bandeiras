@@ -23,7 +23,7 @@ function Pais(props) {
     const nomeSemAcento = nome.normalize('NFD').replace(/[\u0300-\u036f]/g, "");
     const nomeUrl = nomeSemAcento.replace(/\s/g, '-');
 
-    const rota = `/vendo-bandeiras/sobre/${nomeUrl}`;
+    const rota = `/bandeiras/sobre/${nomeUrl}`;
 
     return (
         <Link to={rota}>

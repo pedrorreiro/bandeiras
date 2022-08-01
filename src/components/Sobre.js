@@ -70,7 +70,7 @@ function Sobre(props) {
       {pais.length !== 0 ? (
         <div style={style.conteudo}>
     
-          <Voltar onClick={() => navigate("/vendo-bandeiras/")}>
+          <Voltar onClick={() => navigate("/bandeiras/")}>
             <ArrowLeftIcon />
             <span style={{ marginLeft: "10px" }}>Voltar</span>
           </Voltar>
